@@ -1,0 +1,10 @@
+compID     amount    compName
+    0:        608    Pintel CPU 3 GHz
+    1:        747    Pintel CPU 5 GHz
+    2:        651    IMD CPU 3GHz
+    3:        549    IMD CPU 5GHz
+    4:       1355    Pintel motherboard
+    5:       1200    IMD motherboard
+    6:       1178    Memory 8 GB
+    7:       1377    Memory 16 GB
+    8:       1050    Hard disk 1TB
